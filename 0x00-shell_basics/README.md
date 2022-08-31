@@ -11,3 +11,4 @@
 10-back writes a script that changes the working directory to the previous one
 11-lists lists all files
 12-file_type prints the type of file named iamafile
+13-symbolic_link creates a symbolic link to /bin/ls, named __ls__
