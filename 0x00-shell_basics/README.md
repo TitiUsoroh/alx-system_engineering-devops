@@ -5,3 +5,4 @@
 4-listmorefiles displays current directory contents, including hidden files
 5-listfilesdigitonly displays current directory content
 6-firstdirectory creates a directory named my_first_directory in /tmp/ directory
+7-movethatfile moves the file bety from /tmp/ to /tmp/my_first_directory
