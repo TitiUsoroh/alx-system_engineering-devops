@@ -9,3 +9,4 @@
 8-firstdelete deletes the file betty
 9-firstdirdeletion deletes the directory my_first_directorythat is in the /tmp directory
 10-back writes a script that changes the working directory to the previous one
+11-lists lists all files
