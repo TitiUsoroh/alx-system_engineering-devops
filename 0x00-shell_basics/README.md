@@ -12,3 +12,4 @@
 11-lists lists all files
 12-file_type prints the type of file named iamafile
 13-symbolic_link creates a symbolic link to /bin/ls, named __ls__
+14-copy_html creates a script that copies all the HTML files from the current working directory to the parent of the working directory
