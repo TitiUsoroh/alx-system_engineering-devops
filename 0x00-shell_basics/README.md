@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes the directory my_first_directorythat is in the /tmp directory
 10-back writes a script that changes the working directory to the previous one
 11-lists lists all files
+12-file_type prints the type of file named iamafile
